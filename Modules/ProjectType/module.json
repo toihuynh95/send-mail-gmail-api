@@ -1,0 +1,14 @@
+{
+    "name": "ProjectType",
+    "alias": "projecttype",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\ProjectType\\Providers\\ProjectTypeServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
